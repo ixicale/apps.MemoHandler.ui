@@ -1,0 +1,30 @@
+{
+  "name": "apps.memohandler.ui",
+  "version": "1.0.0",
+  "description": "Web APP to manage notes 'memohandler.ui'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixicale/apps.MemoHandler.ui.git"
+  },
+  "keywords": [
+    "memo",
+    "notes",
+    "manager",
+    "handler",
+    "vue",
+    "js",
+    "ts",
+    "ixicale",
+    "apps"
+  ],
+  "author": "@ixicale",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ixicale/apps.MemoHandler.ui/issues"
+  },
+  "homepage": "https://github.com/ixicale/apps.MemoHandler.ui#readme"
+}
